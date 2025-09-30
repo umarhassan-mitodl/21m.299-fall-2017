@@ -1,0 +1,47 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 3d0c548d-4bc2-0de9-98f9-560d9485f927
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5060b95f-152f-d848-f2c0-12f9928a4e84
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 94b1c2c1-04e5-6827-28cd-9c742a3d41f3
+  name: Why The Beatles?
+  pageRef: /pages/instructor-insights/why-the-beatles
+  parent: 5060b95f-152f-d848-f2c0-12f9928a4e84
+  weight: 30
+- identifier: de7b3d9c-85c9-b1f1-ce96-9f2b2dd34ed5
+  name: 'Emulating The Beatles: Learning From Each Other'
+  pageRef: /pages/instructor-insights/emulating-the-beatles-learning-from-each-other
+  parent: 5060b95f-152f-d848-f2c0-12f9928a4e84
+  weight: 40
+- identifier: 135e3408-c011-5f83-861d-d67edb1d9c96
+  name: Using Assignment Guidelines to Make Expectations Explicit
+  pageRef: /pages/instructor-insights/using-assignment-guidelines-to-make-expectations-explicit
+  parent: 5060b95f-152f-d848-f2c0-12f9928a4e84
+  weight: 50
+- identifier: 976fc8a9-28f3-f54d-9458-8173017d5b3a
+  name: "Critiquing Others\u2019 Work to Improve Your Own"
+  pageRef: /pages/instructor-insights/critiquing-others2019-work-to-improve-your-own
+  parent: 5060b95f-152f-d848-f2c0-12f9928a4e84
+  weight: 60
+- identifier: 9f962c68-e154-8ded-b2da-09435a08f71a
+  name: Reading and Listening
+  pageRef: /pages/reading-and-listening
+  weight: 70
+- identifier: d6f2204b-39fc-a2c4-b3fb-370199b40739
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 80
+- identifier: e3292dfe-18ad-2b3e-42a6-d751914e770f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: 88550c45-ba5a-db38-98f8-214ab5cc4bda
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 100
