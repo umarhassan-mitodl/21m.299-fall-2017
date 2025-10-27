@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-299-the-beatles-fall-2017/f085d1857f4e51cf6bb6caccfcc6668c_MIT21M_299F17_Notes16.pdf
 file_size: 224190
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

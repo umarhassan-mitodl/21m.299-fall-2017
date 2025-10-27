@@ -4,8 +4,6 @@ description: Guide to paper and citation format.
 file: /courses/21m-299-the-beatles-fall-2017/54f9558c99838a68f43674b573c68826_MIT21M_299F17_guide.pdf
 file_size: 260417
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

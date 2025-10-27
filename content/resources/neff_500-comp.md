@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-299-the-beatles-fall-2017/bb58530e14ad56b870b171ace97fe5c9_Neff_500-comp.jpg
 file_size: 22786
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

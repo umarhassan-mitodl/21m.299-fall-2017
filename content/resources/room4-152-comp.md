@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-299-the-beatles-fall-2017/63e3d05cb7552ec327448836f8a759be_room4-152-comp.jpg
 file_size: 12813
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
