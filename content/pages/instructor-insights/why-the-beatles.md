@@ -22,6 +22,6 @@ We also had ample materials that could support the course. Hunter Davies’ _The
 
 {{< resource bdc8451e-f110-15de-7305-0f38ae14a4b0 >}}
 
-The Beatles' bronze statues in Liverpool, England. Artist: Andrew Edwards. (Image courtesy of [lwr](https://www.flickr.com/photos/lwr/39925141745/) (Leo Reynolds) on Flickr. License:  CC BY-NC-SA).
+The Beatles' bronze statues in Liverpool, England. Artist: Andrew Edwards. (Image courtesy of {{% resource_link "55afa35a-e1e4-47cd-8df4-c30c3648cc0e" "lwr" %}} (Leo Reynolds) on Flickr. License:  CC BY-NC-SA).
 
 The plethora of available materials helped equalize the skill sets that students brought to the course. This was important because when you want to engage with music analysis, you either have to have people who are conversant, or you have to have a lot of good scores that can help bridge any gaps for participants who feel unsure about doing this kind of work. _The Beatles_ anthology provided that kind of support: it had all of the music, text, and individual lines. It also had the guitar tabs. So even if a student could not distinguish a tonic from a dominant, they were still able say, “This note is a D and this note is G.” It allowed me to open the class to an audience wider than that of only students with prior music analysis experience. I love the Beatles. But having materials that could support the music analysis work was incredibly important in selecting the Beatles as the topic of the course.
